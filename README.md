@@ -4,7 +4,7 @@ VarsityHub is a web-based university campus service management system.
 It allows students, teachers, and staff to book guest houses, conference rooms, and sports facilities through a secure role-based system.
 
 🌐 Live Project:  
-https: sweproject.gt.tc
+https://sweproject.gt.tc
 
 ---
 
