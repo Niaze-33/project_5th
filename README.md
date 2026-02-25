@@ -65,7 +65,8 @@ Each role has specific features and access levels.
 ## 👤 Default User Credentials (For Testing)
 
 > 🔑 Password for all admin accounts: 123456
->  🔑 Password for all users accounts: 123456
+> 
+>  🔑 Password for all users accounts: 12345
 
 
 | Name | Role | Email |
