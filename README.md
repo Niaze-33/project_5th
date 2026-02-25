@@ -64,7 +64,9 @@ Each role has specific features and access levels.
 
 ## 👤 Default User Credentials (For Testing)
 
-> 🔑 Password for all accounts: 123456
+> 🔑 Password for all admin accounts: 123456
+>  🔑 Password for all users accounts: 123456
+
 
 | Name | Role | Email |
 |------|------|-------|
@@ -76,6 +78,7 @@ Each role has specific features and access levels.
 | Golam Mostofa | teacher | g@gmail.com |
 | Anika Jahan | teacher | a@gmail.com |
 | Angel Sadia | staff | angel@gmail.com |
+|Biswadev Biswas | student | bb@gmail.com
 | Munna | student | m@gmail.com |
 
 ---
